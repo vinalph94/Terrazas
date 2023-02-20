@@ -1,0 +1,2 @@
+CSE-5335-Terrazas-de-Guacuco
+This a Web application to manage a huge residential complex named Terrazas de Guacuco. It has 367 residential units classified as Studios, Town Houses and cabins. It has two swimming pools, several gardens, tennis courts and several walking trials. There are several managers at the complex, manager garden manager, pool manager, building manager. There is a high security at the complex that works 24 hrs. a day. Complex has about 200 watchmen. Complex has owners, short term rentals and long term rentals and visitors.
